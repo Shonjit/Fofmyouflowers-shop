@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0; padding:0;}
+body{ background-color:#ededed; font-family:"楷体"; font-size:16px;}
+.header{
+	width:980px;
+	margin:0 auto 7px;
+	height:86px;
+	line-height:86px;
+	text-align:center;
+	font-family:"微软雅黑";
+	color:#a5a5a5;
+}
+.header h1{ font-weight:normal;}
+.header strong{
+	font-weight:normal;
+	font-size:30px;
+}
+.header em{
+	font-style:normal;
+	font-size:14px;
+}
+/*fenlei*/
+.fenlei{
+	width:980px;
+	margin:0 auto;
+	
+}
+.best{
+	margin-left:100px
+}
+.bast1{	text-align:center;}
+.bast1 p{ color:red;}
+.best2{
+	margin-left:100px
+}
+.bast3{	text-align:center;}
+.bast3 p{ color:red;}
+.border{text-align:center;}
+     
+ 
